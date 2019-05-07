@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Akina_peintures" Class="LINQDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-OK6SV0P\SQLEXPRESS;Initial Catalog=Akina_peintures;Integrated Security=True" SettingsObjectName="Akinator_Peintures.Properties.Settings" SettingsPropertyName="Akina_peinturesConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Connaissance" Member="Connaissance">
+    <Type Name="Connaissance">
+      <Column Name="ID_C" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ID_Question" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Reponse" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Oeuvre" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Reponse_Connaissance" Member="Reponse" ThisKey="ID_Reponse" OtherKey="ID_R" Type="Reponse" IsForeignKey="true" />
+      <Association Name="Question_Connaissance" Member="Question" ThisKey="ID_Question" OtherKey="ID_Q" Type="Question" IsForeignKey="true" />
+      <Association Name="Oeuvre_Connaissance" Member="Oeuvre" ThisKey="ID_Oeuvre" OtherKey="ID_O" Type="Oeuvre" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Reponse" Member="Reponse">
+    <Type Name="Reponse">
+      <Column Name="ID_R" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Reponse" Member="Reponse1" Type="System.String" DbType="Char(3) NOT NULL" CanBeNull="false" />
+      <Association Name="Reponse_Connaissance" Member="Connaissance" ThisKey="ID_R" OtherKey="ID_Reponse" Type="Connaissance" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Question" Member="Question">
+    <Type Name="Question">
+      <Column Name="ID_Q" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Libelle" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Association Name="Question_Connaissance" Member="Connaissance" ThisKey="ID_Q" OtherKey="ID_Question" Type="Connaissance" />
+      <Association Name="Question_Partie" Member="Partie" ThisKey="ID_Q" OtherKey="ID_Question" Type="Partie" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Oeuvre" Member="Oeuvre">
+    <Type Name="Oeuvre">
+      <Column Name="ID_O" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nom" Type="System.String" DbType="VarChar(80) NOT NULL" CanBeNull="false" />
+      <Column Name="Artiste" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Genre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Occurence" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Flag" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Img" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Descriptif" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="Oeuvre_Connaissance" Member="Connaissance" ThisKey="ID_O" OtherKey="ID_Oeuvre" Type="Connaissance" />
+      <Association Name="Oeuvre_Partie" Member="Partie" ThisKey="ID_O" OtherKey="ID_Oeuvre" Type="Partie" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Partie" Member="Partie">
+    <Type Name="Partie">
+      <Column Name="ID_P" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ID_Question" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Reponse" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Oeuvre" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Oeuvre_Partie" Member="Oeuvre" ThisKey="ID_Oeuvre" OtherKey="ID_O" Type="Oeuvre" IsForeignKey="true" />
+      <Association Name="Question_Partie" Member="Question" ThisKey="ID_Question" OtherKey="ID_Q" Type="Question" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

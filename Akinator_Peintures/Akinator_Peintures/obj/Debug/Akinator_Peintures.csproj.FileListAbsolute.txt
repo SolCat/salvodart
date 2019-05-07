@@ -1,0 +1,65 @@
+c:\users\ph_c\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\bin\Debug\Akinator_Peintures.exe.config
+c:\users\ph_c\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\bin\Debug\Akinator_Peintures.exe
+c:\users\ph_c\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\bin\Debug\Akinator_Peintures.pdb
+c:\users\ph_c\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.csprojResolveAssemblyReference.cache
+c:\users\ph_c\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.Properties.Resources.resources
+c:\users\ph_c\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.csproj.GenerateResource.Cache
+c:\users\ph_c\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.exe
+c:\users\ph_c\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.pdb
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.MeuPrincipal.resources
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.MenuQuestion.resources
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\bin\Debug\BibliothequeClasses.dll
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\bin\Debug\EntityFramework.dll
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\bin\Debug\BibliothequeClasses.pdb
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\bin\Debug\EntityFramework.xml
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\Akinator_Peintures\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\Akinator_Peintures.exe.config
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.exe
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.pdb
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\Akinator_Peintures.exe
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\Akinator_Peintures.pdb
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\EntityFramework.dll
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\EntityFramework.xml
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.csprojResolveAssemblyReference.cache
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.MenuQuestion.resources
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.MenuResolutionEnigme.resources
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.Properties.Resources.resources
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.csproj.GenerateResource.Cache
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.MenuPrincipal.resources
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\bin\Debug\Akinator_Peintures.exe.config
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\obj\Debug\Akinator_Peintures.exe
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\obj\Debug\Akinator_Peintures.pdb
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\Akinator_Peintures.exe.config
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.exe
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.pdb
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\Akinator_Peintures.exe
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\Akinator_Peintures.pdb
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\EntityFramework.dll
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\EntityFramework.xml
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.csprojResolveAssemblyReference.cache
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.MenuPrincipal.resources
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.MenuQuestion.resources
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.MenuResolutionEnigme.resources
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.Properties.Resources.resources
+C:\Users\Ph_C\Desktop\Akinator_Peintures_V0\Akinator_Peintures_V0\Akinator_Peintures\obj\Debug\Akinator_Peintures.csproj.GenerateResource.Cache
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\bin\Debug\Akinator_Peintures.exe.config
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.exe
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.pdb
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\bin\Debug\Akinator_Peintures.exe
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\bin\Debug\Akinator_Peintures.pdb
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\bin\Debug\EntityFramework.dll
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\bin\Debug\EntityFramework.xml
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.csprojResolveAssemblyReference.cache
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.MenuPrincipal.resources
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.MenuQuestion.resources
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.MenuResolutionEnigme.resources
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.Properties.Resources.resources
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.csproj.GenerateResource.Cache
+C:\Users\Ph_C\Desktop\Salvodart\Akinator_Peintures\Akinator_Peintures\obj\Debug\Akinator_Peintures.InformationsTableau.resources

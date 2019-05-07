@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LINQ">
+  <DataContextMoniker Name="/LINQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="da17e7a3-6771-4216-b0d6-b9756c50f5ad" absoluteBounds="4.125, 3, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LINQDataContext/Connaissance" />
+      <nestedChildShapes>
+        <elementListCompartment Id="af9dab14-607f-4a5f-8d87-d825ed7677cb" absoluteBounds="4.1400000000000006, 3.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="31ca1cc2-82ad-4f62-8058-b604290efd37" absoluteBounds="1.25, 3.125, 1.625, 1.1939925130208309">
+      <DataClassMoniker Name="/LINQDataContext/Reponse" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2010926a-afb6-4cd7-adb0-6e0f3a2e2683" absoluteBounds="1.265, 3.585, 1.5950000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.875 : 3.72199625651042); (4.125 : 3.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LINQDataContext/Reponse/Reponse_Connaissance" />
+      <nodes>
+        <classShapeMoniker Id="31ca1cc2-82ad-4f62-8058-b604290efd37" />
+        <classShapeMoniker Id="da17e7a3-6771-4216-b0d6-b9756c50f5ad" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="c49dc193-201c-4f22-ae4d-3c1c01ac9ff0" absoluteBounds="7.25, 3.125, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/LINQDataContext/Question" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e380478a-c896-4511-978b-6ef42738f5fa" absoluteBounds="7.2650000000000006, 3.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7.25 : 3.81814697265625); (6.125 : 3.81814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LINQDataContext/Question/Question_Connaissance" />
+      <nodes>
+        <classShapeMoniker Id="c49dc193-201c-4f22-ae4d-3c1c01ac9ff0" />
+        <classShapeMoniker Id="da17e7a3-6771-4216-b0d6-b9756c50f5ad" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="2017fc7b-c1a5-4c77-8272-fd36ca48023a" absoluteBounds="4.125, 5.125, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/LINQDataContext/Oeuvre" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c93bb491-3c7a-4609-bbc7-c644db34c390" absoluteBounds="4.1400000000000006, 5.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.125 : 5.125); (5.125 : 4.57859537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LINQDataContext/Oeuvre/Oeuvre_Connaissance" />
+      <nodes>
+        <classShapeMoniker Id="2017fc7b-c1a5-4c77-8272-fd36ca48023a" />
+        <classShapeMoniker Id="da17e7a3-6771-4216-b0d6-b9756c50f5ad" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="a334ab8e-c154-43f6-b2ad-be6c8266f192" absoluteBounds="7.25, 5.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LINQDataContext/Partie" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eec2ac21-29ea-4cca-bf2c-9cc69f1f0eb0" absoluteBounds="7.265, 6.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6.125 : 6.41429768880208); (7.25 : 6.41429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LINQDataContext/Oeuvre/Oeuvre_Partie" />
+      <nodes>
+        <classShapeMoniker Id="2017fc7b-c1a5-4c77-8272-fd36ca48023a" />
+        <classShapeMoniker Id="a334ab8e-c154-43f6-b2ad-be6c8266f192" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 4.5112939453125); (8.25 : 5.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LINQDataContext/Question/Question_Partie" />
+      <nodes>
+        <classShapeMoniker Id="c49dc193-201c-4f22-ae4d-3c1c01ac9ff0" />
+        <classShapeMoniker Id="a334ab8e-c154-43f6-b2ad-be6c8266f192" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

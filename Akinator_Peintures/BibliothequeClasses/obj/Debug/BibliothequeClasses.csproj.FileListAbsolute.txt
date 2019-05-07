@@ -1,0 +1,10 @@
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\BibliothequeClasses\bin\Debug\BibliothequeClasses.dll
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\BibliothequeClasses\bin\Debug\BibliothequeClasses.pdb
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\BibliothequeClasses\obj\Debug\BibliothequeClasses.csprojResolveAssemblyReference.cache
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\BibliothequeClasses\obj\Debug\BibliothequeClasses.dll
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\BibliothequeClasses\obj\Debug\BibliothequeClasses.pdb
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\BibliothequeClasses\bin\Debug\BibliothequeClasses.dll.config
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\BibliothequeClasses\bin\Debug\EntityFramework.dll
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\BibliothequeClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\BibliothequeClasses\bin\Debug\EntityFramework.xml
+C:\Users\Ph_C\documents\visual studio 2015\Projects\Akinator_Peintures\BibliothequeClasses\bin\Debug\EntityFramework.SqlServer.xml
